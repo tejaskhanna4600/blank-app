@@ -1,0 +1,56 @@
+{
+  "current_player": 2,
+  "game_phase": "playing",
+  "dice_rolled": true,
+  "current_position": 15,
+  "properties": {
+    "5": {
+      "owner": "T1",
+      "name": "Dairy Products"
+    },
+    "15": {
+      "owner": "T3",
+      "name": "Luxury Accessories"
+    }
+  },
+  "teams": [
+    {
+      "id": "T1",
+      "name": "Team 1",
+      "color": "#d32f2f",
+      "balance": 10000000,
+      "pos": 5
+    },
+    {
+      "id": "T2",
+      "name": "Team 2",
+      "color": "#1976d2",
+      "balance": 9000000,
+      "pos": 6
+    },
+    {
+      "id": "T3",
+      "name": "Team 3",
+      "color": "#388e3c",
+      "balance": 6000000,
+      "pos": 15
+    },
+    {
+      "id": "T4",
+      "name": "Team 4",
+      "color": "#f57c00",
+      "balance": 10000000,
+      "pos": 0
+    },
+    {
+      "id": "T5",
+      "name": "Team 5",
+      "color": "#7b1fa2",
+      "balance": 10000000,
+      "pos": 0
+    }
+  ],
+  "messages": [],
+  "pending_actions": {},
+  "game_log": []
+}
